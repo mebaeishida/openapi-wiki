@@ -1,0 +1,2 @@
+# openapi-wiki
+OpenAPIのドキュメントをwikiで閲覧できないか確認するだけのリポジトリ
